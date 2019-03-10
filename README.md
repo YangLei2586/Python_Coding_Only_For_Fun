@@ -1,0 +1,2 @@
+# Python_Coding_Only_For_Fun
+Life_is_short_Coding_is_Fun
